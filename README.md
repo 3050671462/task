@@ -26,4 +26,4 @@ my task
 |10.24|roslaunch&roscd&rosed|None|None|
 |10.25|Homeworking|None|None|
 |10.26|rosmsg&rossrv|None|None|
-|10.27|Finish rostask1&2|None|None|
+|10.27|Finish rostask1&2|命令行更新仓库各种各样的问题|直接拖进网页里上传|
