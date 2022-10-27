@@ -1,0 +1,7 @@
+<launch>
+
+  <node pkg="test2" name ="Publisher" type="Publisher" output="screen"/>
+
+  <node pkg="test2" name ="Subscriber" type="Subscriber" output="screen"/>
+
+</launch>
