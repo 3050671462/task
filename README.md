@@ -30,4 +30,8 @@ my task
 |10.28|Homework|None|None|
 |10.29|四元数入门|None|None|
 |10.30|test|None|None|
+|10.31 ~ 11.2|准备考试，咕|None|None|
+|||||
+|||||
+|||||
 |||||
